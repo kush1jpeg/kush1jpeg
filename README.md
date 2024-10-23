@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kush1jpeg
+- 👋 Hi, I’m @kushagra
 - 👀 I’m interested in ... self destruction
 - 🌱 I’m currently learning ...JS , CSS , JAVA , HTML 
 - 😄 Pronouns: ...Godliness
