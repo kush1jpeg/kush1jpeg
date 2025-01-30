@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushagra
 - 👀 I’m interested in ... self destruction
-- 🌱 I’m currently learning ...JS , CSS , JAVA , HTML 
+- 🌱 I’m currently learning ...JS , CSS , JAVA , HTML , React.js
 - 😄 Pronouns: ...Godliness
 
 - Gaze into the abyss and it gazes back at you
