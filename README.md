@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kush1jpeg&show_icons=true&theme=tokyonight" width="500px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1jpeg&theme=tokyonight&border=true&include_all_commits=true&count_private=true&layout=compact" width="350px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1jpeg&theme=tokyonight&border=true&include_all_commits=true&count_private=true&layout=compact" width="445px"/>
     </td>
   </tr>
 </table>
