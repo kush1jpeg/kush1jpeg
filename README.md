@@ -1,16 +1,41 @@
 
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi there👋, I'm Kushagra</h1>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kush1jpeg&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kush1jpeg&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kush1jpeg&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,java,postman,git,github,express,redux,tailwind" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kush1jpeg&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kush1jpeg&show_icons=true&theme=tokyonight" width="500px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1jpeg&theme=tokyonight&border=true&include_all_commits=true&count_private=true&layout=compact" width="350px"/>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kush1jpeg&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="fight.jpg" width="600px">
+</p>
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=kush1jpeg&icon=10&color=0)](https://visitcount.itsvg.in)
+  ## Trophies:
+  <p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=kush1jpeg&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="kush-trophies" />
+    </a> 
+  </p>
+
+
+
+
