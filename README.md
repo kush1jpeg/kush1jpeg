@@ -4,7 +4,7 @@
 
 ## Languages and Tools: <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40" height="30px">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,java,postman,git,github,express,redux,tailwind,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,java,express,tailwind,cpp,c" />
 </p>
 
 <table>
