@@ -1,6 +1,6 @@
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30" height="20px" >  Status - 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,java,express,tailwind,arch,neovim,cpp,c," />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,mongodb,express,tailwind,arch,neovim,cpp,c,redis,docker" />
 </p>
 
 <table>
