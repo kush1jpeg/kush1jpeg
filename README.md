@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kush1jpeg&show_icons=true&theme=tokyonight" width="500px"/>
+       <img src="https://streak-stats.demolab.com?user=kush1jpeg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kush1jpeg&theme=tokyonight&border=true&include_all_commits=true&count_private=true&layout=compact" width="445px"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kush1jpeg&layout=compact&theme=tokyonight" width="400px"/>
     </td>
   </tr>
 </table>
